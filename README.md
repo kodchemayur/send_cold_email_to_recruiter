@@ -1,6 +1,3 @@
-# send_cold_email_to_recruiter
-A simple tool to send personalized emails to recruiters automatically. Ideal for job seekers looking to streamline their outreach.
-
 # 📧 Recruiter Email Automation Tool
 
 This Python tool automates sending **personalized job application emails to recruiters** using the **Gmail API**. It supports dynamic email content based on Excel input and allows file attachments (like your resume).
